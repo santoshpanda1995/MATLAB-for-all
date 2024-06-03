@@ -47,6 +47,7 @@
   * Image segmentation
   * Morphological operations
 - <a href="">Machine learning using MATLAB</a> <br>
+  * <a href="https://github.com/santoshpanda1995/MATLAB-for-all/blob/main/linear_regression.m">Linear Regression</a>
   * <a href="https://github.com/santoshpanda1995/MATLAB-for-all/blob/main/decisiontree.m">Decision Tree</a>
   * <a href="https://github.com/santoshpanda1995/MATLAB-for-all/blob/main/regressiontree.m">Regression Tree</a>
   * <a href="https://github.com/santoshpanda1995/MATLAB-for-all/blob/main/knn.m">Nearest Neighbour</a>
