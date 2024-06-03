@@ -48,4 +48,8 @@
   * Morphological operations
 - <a href="">Machine learning using MATLAB</a> <br>
   * <a href="https://github.com/santoshpanda1995/MATLAB-for-all/blob/main/decisiontree.m">Decision Tree</a>
+  * <a href="https://github.com/santoshpanda1995/MATLAB-for-all/blob/main/regressiontree.m">Regression Tree</a>
+  * <a href="https://github.com/santoshpanda1995/MATLAB-for-all/blob/main/knn.m">Nearest Neighbour</a>
+  * <a href="https://github.com/santoshpanda1995/MATLAB-for-all/blob/main/naivebayes.m">Naive Bayes</a>
+  * <a href="https://github.com/santoshpanda1995/MATLAB-for-all/blob/main/svm.m">SVM</a>
 
