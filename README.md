@@ -52,4 +52,6 @@
   * <a href="https://github.com/santoshpanda1995/MATLAB-for-all/blob/main/knn.m">Nearest Neighbour</a>
   * <a href="https://github.com/santoshpanda1995/MATLAB-for-all/blob/main/naivebayes.m">Naive Bayes</a>
   * <a href="https://github.com/santoshpanda1995/MATLAB-for-all/blob/main/svm.m">SVM</a>
+  * <a href="https://github.com/santoshpanda1995/MATLAB-for-all/blob/main/kmeans.m">K means</a>
+  * <a href="https://github.com/santoshpanda1995/MATLAB-for-all/blob/main/kmedoids.m">K medoids</a>
 
